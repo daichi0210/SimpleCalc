@@ -81,8 +81,9 @@
             CalcButton.Name = "CalcButton";
             CalcButton.Size = new Size(354, 23);
             CalcButton.TabIndex = 5;
-            CalcButton.Text = "button1";
+            CalcButton.Text = "計算する";
             CalcButton.UseVisualStyleBackColor = true;
+            CalcButton.Click += CalcButton_Click;
             // 
             // Form1
             // 
