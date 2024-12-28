@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\windows\\src\\repos\\SimpleCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74D1B691-6ADB-4F17-B95B-A8F73862F7CB}|SimpleCalc\\SimpleCalc.csproj|d:\\dev\\windows\\src\\repos\\simplecalc\\simplecalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74D1B691-6ADB-4F17-B95B-A8F73862F7CB}|SimpleCalc\\SimpleCalc.csproj|solutionrelative:simplecalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\SimpleCalc\\SimpleCalc\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleCalc\\Form1.cs",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\SimpleCalc\\SimpleCalc\\Form1.cs [Design]",
+              "RelativeToolTip": "SimpleCalc\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:05:59.011Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
